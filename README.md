@@ -1,9 +1,9 @@
 ## Instructions to student.
 
-This repository contains the starting code for the follow-up exam to assignment one of Distributed Systems. You are required to take the following steps in preparation for this exam:
+This repository contains the starting code for the follow-up exam to assignment one of Enterprise Web Development. You are required to take the following steps in preparation for this exam:
 
 + Clone this repository.
-+ Import the project into VS Code and run the commands:
++ Import the project into VS Code and run the following commands:
 ~~~bash
 $ npm install
 $ npm run schema
@@ -14,7 +14,7 @@ $ npm run schema
 $ git remote remove origin
 $ git remote add origin ...URL of your new repository...
 ~~~
-+ Deploy the app (cdk deploy)
++ Deploy the app to your AWS account (cdk deploy).
 
 ## The App.
 
@@ -27,4 +27,4 @@ Examine these two tables in the DynamoDB management console. In VS Code, examine
 
 When you have fully understood the app's new features, destroy the stack.
 
-Finally, the day before the exam, deploy the app again and leave it deployed. 
+Finally, the day before the exam, redeploy the app again and leave it deployed. 
