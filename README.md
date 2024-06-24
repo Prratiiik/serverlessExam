@@ -1,6 +1,6 @@
 ## Instructions to student.
 
-This repository contains the starting code for the follow-up exam to assignment one of Enterprise Web Development. You are required to take the following steps in preparation for this exam:
+This repository contains the starting code for a lab-based exam on the serverless architecture on the AWS platform. You are required to take the following steps in preparation for this exam:
 
 + Clone this repository.
 + Import the project into VS Code and run the following commands:
@@ -14,7 +14,7 @@ $ npm run schema
 $ git remote remove origin
 $ git remote add origin ...URL of your new repository...
 ~~~
-+ Deploy the app to your AWS account (cdk deploy).
++ Immediately before the exam, deploy the app to your AWS account (cdk deploy).
 
 ## The App.
 
